@@ -1,4 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+
+I am a DevOps Engineer, with a cloud specialization.
+
+### I am currently working to:
+  - Get my HashiCorp Vault certification.
+  - Deepen my understanding of software development.
+
+### When I am not working, I enjoy:
+  - Biking
+  - Video Games
+  - Spending Time with friends and family
+
+#### Pronouns: He/Him
+
 
 <!--
 **Anthonyntilelli/Anthonyntilelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
