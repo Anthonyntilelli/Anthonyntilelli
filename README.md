@@ -8,8 +8,9 @@ I am a DevOps Engineer, with a cloud specialization.
 
 ### When I am not working, I enjoy:
   - Biking
-  - Video Games
-  - Spending Time with friends and family
+  - Board/Video games
+  - Personal projects
+  - Spending time with friends and family
 
 #### Pronouns: He/Him
 
