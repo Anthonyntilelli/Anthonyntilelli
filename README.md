@@ -3,7 +3,6 @@
 I am a DevOps Engineer, with a cloud specialization.
 
 ### I am currently working to:
-  - Get my HashiCorp Vault certification.
   - Deepen my understanding of software development.
 
 ### When I am not working, I enjoy:
