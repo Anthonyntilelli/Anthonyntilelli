@@ -1,17 +1,14 @@
 ## Hi there 👋
 
 I am a DevOps Engineer, with a cloud specialization.
-
-### I am currently working to:
-  - Deepen my understanding of software development.
-
+ 
 ### When I am not working, I enjoy:
   - Biking
-  - Board/Video games
+  - Skiing
   - Personal projects
   - Spending time with friends and family
 
-#### Pronouns: He/Him
+### Pronouns: He/Him
 
 
 <!--
