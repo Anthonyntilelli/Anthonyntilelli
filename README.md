@@ -2,6 +2,11 @@
 
 I am a DevOps Engineer, with a cloud specialization.
  
+## I’m currently learning:
+
+- NextJs
+- Firebase
+
 ### When I am not working, I enjoy:
   - Biking
   - Skiing
