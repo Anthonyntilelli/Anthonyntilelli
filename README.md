@@ -1,17 +1,15 @@
 ## Hi there 👋
 
 I am a DevOps Engineer, with a cloud specialization.
- 
-## I’m currently learning:
-
-- NextJs
-- Firebase
 
 ### When I am not working, I enjoy:
   - Biking
   - Skiing
   - Personal projects
-  - Spending time with friends and family
+  - Spending time with friends and family 
+ 
+### How to reach me:
+  - contact me on [LinkedIn](https://www.linkedin.com/in/anthonytilelli/)
 
 ### Pronouns: He/Him
 
