@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a DevOps Engineer, with a cloud specialization.
+I am a DevOps Engineer, with a cloud specialization. I enjoy learning new and different technologies.
 
 ### When I am not working, I enjoy:
   - Biking
